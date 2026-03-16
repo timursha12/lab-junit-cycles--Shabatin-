@@ -35,6 +35,6 @@
 
 ## 📎 Ссылки
 - [Код тестов](src/SimpleCounterTest.java)
-- [Основной класс](SimpleCounter.java)
+- [Основной класс](src/SimpleCounter.java)
 
 *Дата: 16.03.2026*
