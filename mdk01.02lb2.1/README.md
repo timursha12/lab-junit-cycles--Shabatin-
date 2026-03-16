@@ -36,7 +36,7 @@
 ## 📎 Ссылки
 - [Код тестов](src/SimpleCounterTest.java)
 - [Основной класс](src/SimpleCounter.java)
-- [Код тестов Примера](src/BankAccountTest.java)
-- [Основной класс Примера](src/BankAccount.java)
+- [Код тестов (Примера)](src/BankAccountTest.java)
+- [Основной класс (Примера)](src/BankAccount.java)
   
 *Дата: 16.03.2026*
